@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Andreyfrech/react-movies/static/css/main.817a9431.css",
+    "main.js": "/Andreyfrech/react-movies/static/js/main.ccae123b.js",
+    "index.html": "/Andreyfrech/react-movies/index.html",
+    "main.817a9431.css.map": "/Andreyfrech/react-movies/static/css/main.817a9431.css.map",
+    "main.ccae123b.js.map": "/Andreyfrech/react-movies/static/js/main.ccae123b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.817a9431.css",
+    "static/js/main.ccae123b.js"
+  ]
+}
